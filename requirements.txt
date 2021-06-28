@@ -6,7 +6,7 @@ config==0.4.2
 html5lib==1.0.1
 idna==2.8
 lxml==4.4.1
-pip==19.0.3
+pip==19.2
 psycopg2==2.8.4
 requests==2.22.0
 setuptools==40.8.0
